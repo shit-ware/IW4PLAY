@@ -1,0 +1,12 @@
+D:\Dokumente\IW4Play\iw4play\InfinityScript\bin\Debug\InfinityScript.dll.config
+D:\Dokumente\IW4Play\iw4play\InfinityScript\bin\Debug\InfinityScript.dll
+D:\Dokumente\IW4Play\iw4play\InfinityScript\bin\Debug\InfinityScript.pdb
+D:\Dokumente\IW4Play\iw4play\InfinityScript\bin\Debug\Nancy.dll
+D:\Dokumente\IW4Play\iw4play\InfinityScript\bin\Debug\Nancy.ViewEngines.Razor.dll
+D:\Dokumente\IW4Play\iw4play\InfinityScript\bin\Debug\System.Web.Razor.Unofficial.dll
+D:\Dokumente\IW4Play\iw4play\InfinityScript\obj\Debug\InfinityScript.csprojResolveAssemblyReference.cache
+D:\Dokumente\IW4Play\iw4play\InfinityScript\obj\Debug\InfinityScript.g.resources
+D:\Dokumente\IW4Play\iw4play\InfinityScript\obj\Debug\InfinityScript.Properties.Resources.resources
+D:\Dokumente\IW4Play\iw4play\InfinityScript\obj\Debug\InfinityScript.csproj.GenerateResource.Cache
+D:\Dokumente\IW4Play\iw4play\InfinityScript\obj\Debug\InfinityScript.dll
+D:\Dokumente\IW4Play\iw4play\InfinityScript\obj\Debug\InfinityScript.pdb
